@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolay Sinorov</h1>
-<h3 align="center">A passionate backend developer from Bulgaria</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nsinorov&label=Profile%20views&color=0e75b6&style=flat" alt="nsinorov" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsinorov" alt="nsinorov" /></a> </p>
+<h3 align="center">A passionate wanna be backend developer from Bulgaria, currently I'm a student at SoftUni.bg and I'm learning C#.</h3>
 
 - 📫 How to reach me **www.linkedin.com/in/nikolay-sinorov**
 
