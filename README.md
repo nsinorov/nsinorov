@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolay Sinorov</h1>
-<h3 align="center">A passionate backend developer from Bulgaria</h3>
+<h3 align="center">A passionate learning backend developer from Bulgaria</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/nsinorov?tab=repositories](https://github.com/nsinorov?tab=repositories)
 
