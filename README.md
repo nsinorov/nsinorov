@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikolay Sinorov</h1>
-<h3 align="center">A passionate learning backend developer from Bulgaria</h3>
+<h3 align="center">A passionate backend developer from Bulgaria</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/nsinorov?tab=repositories](https://github.com/nsinorov?tab=repositories)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nsinorov&label=Profile%20views&color=0e75b6&style=flat" alt="nsinorov" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsinorov" alt="nsinorov" /></a> </p>
 
 - 📫 How to reach me **www.linkedin.com/in/nikolay-sinorov**
 
@@ -13,3 +15,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nsinorov&show_icons=true&locale=en&layout=compact" alt="nsinorov" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nsinorov&show_icons=true&locale=en" alt="nsinorov" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsinorov&" alt="nsinorov" /></p>
