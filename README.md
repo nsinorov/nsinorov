@@ -18,3 +18,5 @@
 ## Snake eating my Contribution graph.
 ![snake gif](https://github.com/nsinorov/nsinorov/blob/output/github-contribution-grid-snake.gif)
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
