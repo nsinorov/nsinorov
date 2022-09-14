@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikolay Sinorov</h1>
-<h3 align="center">A passionate backend developer from Bulgaria, currently I'm a student at SoftUni.bg and I'm learning C#.</h3>
+<h3 align="center">A passionate backend developer learner from Bulgaria, currently I'm a student at SoftUni.bg and I'm studying C#.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
