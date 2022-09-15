@@ -20,7 +20,4 @@
 Goal - 100 Day Streak!
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsinorov&" alt="nsinorov" /></p>
 
-## Snake eating my Contribution graph. - (Make your Appereance Dark Mode for better experience)
-<img src="https://raw.githubusercontent.com/nsinorov/nsinorov/output/github-contribution-grid-snake.svg" />
-
 
