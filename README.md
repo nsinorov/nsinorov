@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikolay Sinorov</h1>
-<h3 align="center">A passionate backend developer from Bulgaria, currently I'm a student at SoftUni.bg and I'm learning C#.</h3>
+<h3 align="center">A passionate backend developer learner from Bulgaria, currently I'm a student at SoftUni.bg and I'm studying C#.</h3>
 
-- 📫 How to reach me **www.linkedin.com/in/nikolay-sinorov**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsinorov" alt="nsinorov" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/nikolay-sinorov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nikolay-sinorov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikolay-sinorov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nikolay-sinorov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,4 +17,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nsinorov&show_icons=true&locale=en" alt="nsinorov" /></p>
 
+Goal - 100 Day Streak!
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsinorov&" alt="nsinorov" /></p>
+
+## Snake eating my Contribution graph. - (Make your Appereance Dark Mode for better experience)
+<img src="https://raw.githubusercontent.com/nsinorov/nsinorov/output/github-contribution-grid-snake.svg" />
+
+
