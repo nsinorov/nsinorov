@@ -20,5 +20,6 @@
 Goal - 100 Day Streak!
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsinorov&" alt="nsinorov" /></p>
 
-##Snake eating my contribution graph
+Snake eating my contribution graph
+
 ![snake gif](https://github.com/nsinorov/nsinorov/blob/output/github-contribution-grid-snake.gif)
