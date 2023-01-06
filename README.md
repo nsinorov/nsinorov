@@ -22,10 +22,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsinorov&" alt="nsinorov" /></p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nsinorov/count.svg" />
-</p>
 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
