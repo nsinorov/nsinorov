@@ -22,7 +22,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csha
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
-  <img alt="snake eating my contribution" src="https://github.com/nsinorov/nsinorov/blob/output/github-contribution-grid-snake.gif">
+  <img alt="snake eating my contribution" src="https://github.com/nsinorov/nsinorov/blob/output/github-contribution-grid-snake.svg">
   <br>
   <br>
   <br>
