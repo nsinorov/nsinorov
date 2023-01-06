@@ -1,5 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Nikolay Sinorov</h1>
+<div align="center">
  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
+ </div>
 <h3 align="center">A passionate backend developer learner from Bulgaria, currently I'm a student at SoftUni.bg and I'm studying C#.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsinorov" alt="nsinorov" /></a> </p>
