@@ -22,7 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nsinorov&show_icons=true&locale=en" alt="nsinorov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsinorov&" alt="nsinorov" /></p>
-
-## Snake eating my contributiion graph
-
-![snake gif](https://github.com/nsinorov/nsinorov/blob/output/github-contribution-grid-snake.gif)
