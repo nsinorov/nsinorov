@@ -23,7 +23,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsinorov&" alt="nsinorov" /></p>
 
 
-<h2 align="center">Certificates </h2>
+<h1 align="center">Certificates </h1>
 
 <table>
 
