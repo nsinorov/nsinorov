@@ -31,7 +31,7 @@ Goal: 100 Day streak!
 <table>
 
 <tr>
- <th> C# </th>
+ <th> C# - CSharp (.NET) </th>
 </tr>
 
 <tr>
