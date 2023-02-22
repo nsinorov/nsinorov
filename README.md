@@ -62,7 +62,7 @@ Goal: 100 Day streak!
   ---------------------------------------------------------------------------------
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/courses/c-sharp-oop" > C# Advanced </a>        | <a> In progress </a> | 
+| <a href="https://softuni.bg/courses/c-sharp-oop" > C# OOP </a>        | <a> In progress </a> | 
   
   </table>
   </tr>
