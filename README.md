@@ -51,19 +51,9 @@ Goal: 100 Day streak!
 
   Grade: 6.00 (out of 6.00)<br /> Issue Date: 06/12/2022</th>
   
-  </table>
-  </tr>
-</td>
- 
- <table>
-<tr>
- <th> C# - CSharp (.NET) </th>
-</tr>
- 
- <tr>
-<td>
- 
- | **Course**                                                            | **Link**                                                   |
+  ---------------------------------------------------------------------------------
+  
+| **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/modules/58/csharp-advanced/1379" > C# Advanced </a>        | <a href="https://softuni.bg/certificates/details/158231/9fe7c906"> Click here</a> | 
 
@@ -73,8 +63,9 @@ Goal: 100 Day streak!
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/courses/c-sharp-oop" > C# Advanced </a>        | <a> In progress </a> | 
- 
-   </table>
+  
+  </table>
   </tr>
 </td>
  
+
