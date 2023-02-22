@@ -58,3 +58,9 @@ Goal: 100 Day streak!
 | <a href="https://softuni.bg/modules/58/csharp-advanced/1379" > C# Advanced </a>        | <a href="https://softuni.bg/certificates/details/158231/9fe7c906"> Click here</a> |
 
  Grade: 6.00 (out of 6.00)<br /> Issue Date: 21/02/2023</th>
+ 
+  ---------------------------------------------------------------------------------
+ 
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/3958/csharp-oop-february-2023#lesson-49237" > C# OOP </a>        | <a > In progress </a> |
