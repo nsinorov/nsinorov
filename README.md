@@ -54,7 +54,7 @@
   
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/modules/58/csharp-advanced/1379" > C# Advanced </a>        | <a href="https://softuni.bg/certificates/details/158231/9fe7c906"> Click here</a> | 
+| <a href="https://softuni.bg/trainings/3957/csharp-advanced-january-2023" > C# Advanced </a>        | <a href="https://softuni.bg/certificates/details/158231/9fe7c906"> Click here</a> | 
 
  Grade: 6.00 (out of 6.00)<br /> Issue Date: 21/02/2023</th>
  
@@ -62,9 +62,15 @@
 
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/courses/c-sharp-oop" > C# OPP </a>        | <a href="https://softuni.bg/certificates/details/168772/55dbcd02"> Click here</a> | 
+| <a href="https://softuni.bg/trainings/3958/csharp-oop-february-2023" > C# OPP </a>        | <a href="https://softuni.bg/certificates/details/168772/55dbcd02"> Click here</a> | 
 
  Grade: 5.02 (out of 6.00)<br /> Issue Date: 10/04/2023</th>
+ 
+   ---------------------------------------------------------------------------------
+
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4114/html-and-css-may-2023" > HTML & CSS </a>        | <a href="https://softuni.bg/certificates/details/168772/55dbcd02"> Click here</a> | 
   
   </table>
   </tr>
