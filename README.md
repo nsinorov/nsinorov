@@ -4,7 +4,6 @@
  </div>
 <h3 align="center">A future Full-Stack passionate developer from Bulgaria. Currently I'm a student at SoftUni.bg and I'm studying C# - CSharp (.NET) and also Frond-End programming development - JavaScript, HTML5, CSS3, and also database MSSQL.</h3>
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsinorov" alt="nsinorov" /></a> </p>
 
 
