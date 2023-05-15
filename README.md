@@ -29,6 +29,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nsinorov&show_icons=true&locale=en" alt="nsinorov" /></p>
 
+<br>
+
 <p align="centre">
   <img src="https://cdn.discordapp.com/attachments/979101848361377914/1022244283606110228/Softuni_logo_trasparent.png" alt="Banner SoftUni"/>
 </p>
