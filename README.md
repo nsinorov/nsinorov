@@ -86,5 +86,6 @@
   </tr>
 </td>
  
- 
+ </br>
+ <span><strong>Consistency is the key! Keep showing up!</strong> </span>
 
