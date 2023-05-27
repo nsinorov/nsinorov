@@ -32,8 +32,6 @@
 <img height="163em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsinorov&" alt="nsinorov" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nsinorov&show_icons=true&locale=en" alt="nsinorov" /></p>
-
 </br>
 
 <p align="centre">
