@@ -2,12 +2,16 @@
  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
  <h1 align="center">I'm Nikolay Sinorov</h1>
  </div>
+ 
 <h3 align="center">A future Full-Stack passionate developer from Bulgaria. Studying C# - CSharp (.NET), DB and also Front-End development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsinorov" alt="nsinorov" /></a> </p>
+<p align="left"> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsinorov" alt="nsinorov" /></a> 
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/nikolay-sinorov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nikolay-sinorov" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nikolay.srv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nikolay.srv" height="30" width="40" /></a>
