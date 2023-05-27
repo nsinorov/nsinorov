@@ -87,5 +87,5 @@
 </td>
  
  </br>
- <span><strong>Persistance is the key! Keep showing up!</strong> </span>
+ <span><strong>Persistence is the key! Keep showing up!</strong> </span>
 
