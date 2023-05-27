@@ -29,7 +29,7 @@
  
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsinorov&" alt="nsinorov" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nsinorov&show_icons=true&locale=en&layout=compact" alt="nsinorov"/>
+<img height="160em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nsinorov&show_icons=true&locale=en&layout=compact" alt="nsinorov"/>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nsinorov&show_icons=true&locale=en" alt="nsinorov" /></p>
