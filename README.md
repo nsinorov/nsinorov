@@ -84,6 +84,14 @@
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/trainings/4114/html-and-css-may-2023" > HTML & CSS </a>        |  Soon! </a> | 
+
+ ---------------------------------------------------------------------------------
+
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4149/programming-basics-with-javascript-april-2023" > Programming Basics with JavaScript </a>        |  <a href="https://softuni.bg/certificates/details/172671/95c01e2e"> Click here</a> | 
+
+Grade: 6.00 (out of 6.00)<br /> Issue Date: 13/06/2023</th>
   
   </table>
   </tr>
