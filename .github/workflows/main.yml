@@ -1,44 +1,42 @@
-name: Generate Snake
+name: Update readme
 
 on:
   schedule:
-      # every 6 hours
     - cron: "0 4 * * *"
-
   workflow_dispatch:
 
+
+
 jobs:
-  build:
+  readme:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
 
     steps:
-
       - uses: actions/checkout@v3
-
-    # Generates the snake  
-      - uses: actions/setup-node@v3
-        id: snake-gif
         with:
-          github_user_name: nsinorov
-          
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-   
-      - run: git status
-
-      
-      - name: Push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          # the output branch we mentioned above
-          target_branch: output
-          build_dir: dist
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: ${{ github.head_ref }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        
+      - run: npm install
+
+      - name: Generate readme
+        env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+          UNSPLASH_API_KEY: ${{ secrets.UNSPLASH_API_KEY }}
+        run: node build-svg.js
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          push_options: --force
+          commit_user_name: Ludmila
+          commit_user_email: nsinorov123@gmail.com
+          commit_author: Author <nsinorov123@gmail.com>
+          commit_message: "Auto updating my readme"
+          file_pattern: "*.svg README.md"
