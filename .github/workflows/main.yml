@@ -1,4 +1,4 @@
-name: Update readme
+name: Generate Snake
 
 on:
   schedule:
