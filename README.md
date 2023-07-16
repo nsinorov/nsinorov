@@ -107,12 +107,12 @@ Grade: 6.00 (out of 6.00)<br /> Issue Date: 13/06/2023</th>
 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br>
-  <img alt="snake eating my contribution" src="https://github.com/nsinorov/nsinorov/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
 </div>
 
+![](https://raw.githubusercontent.com/nsinorov/nsinorov/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
  <span><strong>Persistence is the key! Keep showing up!</strong> </span>
+
+
+
 
