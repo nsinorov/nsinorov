@@ -1,7 +1,7 @@
 <div align="center">
  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
  <h1 align="center">I'm Nikolay Sinorov</h1>
- </div>
+ </div>  
  
 <h3 align="center">A future Full-Stack passionate developer from Bulgaria. Studying C# - CSharp (.NET), DB and also Front-End development.</h3>
 
