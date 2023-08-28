@@ -82,13 +82,17 @@
 
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4114/html-and-css-may-2023" > HTML & CSS </a>        |  Soon! </a> | 
+| <a href="https://softuni.bg/trainings/4114/html-and-css-may-2023" > HTML & CSS </a>        |  <a href=https://softuni.bg/certificates/details/182016/f5010ab0> Click here </a> | 
+
+ Grade: 6.00 (out of 6.00)<br /> Issue Date: 14/08/2023</th>
 
  ---------------------------------------------------------------------------------
 
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4113/js-front-end-june-2023" > JS Front-End </a>        |  Soon! </a> | 
+| <a href="https://softuni.bg/trainings/4113/js-front-end-june-2023" > JS Front-End </a>        |  <a href=https://softuni.bg/certificates/details/184304/bd440d0b> Click here </a> | 
+
+ Grade: 6.00 (out of 6.00)<br /> Issue Date: 18/08/2023</th>
 
 ---------------------------------------------------------------------------------
 
