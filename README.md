@@ -101,6 +101,18 @@
 | <a href="https://softuni.bg/trainings/4149/programming-basics-with-javascript-april-2023" > Programming Basics with JavaScript </a>        |  <a href="https://softuni.bg/certificates/details/172671/95c01e2e"> Click here</a> | 
 
 Grade: 6.00 (out of 6.00)<br /> Issue Date: 13/06/2023</th>
+
+---------------------------------------------------------------------------------
+
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+|  <a href=https://softuni.bg/trainings/4182/ms-sql-september-2023> Databases Basics - MS SQL Server </a>             |  Soon! </a> | 
+
+---------------------------------------------------------------------------------
+
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+|  <a href=https://softuni.bg/trainings/4234/entity-framework-core-october-2023> Entity Framework Core </a>             |  Soon! </a> | 
   
   </table>
   </tr>
