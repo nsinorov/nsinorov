@@ -73,6 +73,16 @@
 
 </td>
 </table>
+
+</table>
+
+<td>
+
+| **Course**      | **Link**                                                                    |
+| ---------------- | --------------------------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4402/it-career-booster-october-2023"> IT Career Booster </a> | <a href="https://softuni.bg/certificates/details/201478/79b25045"> Click here </a> |
+
+</td>
  
  </br>
 
