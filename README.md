@@ -31,9 +31,8 @@
 
 </br>
 
-<p align="centre">
-  <img src="https://cdn.discordapp.com/attachments/979101848361377914/1022244283606110228/Softuni_logo_trasparent.png" alt="Banner SoftUni"/>
-</p>
+
+![image](https://github.com/nsinorov/nsinorov/assets/45227327/0ec5c0b0-e405-447d-a234-0c210497cf2e)
 
 </br>
 
