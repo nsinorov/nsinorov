@@ -58,7 +58,7 @@
 | <a href=https://softuni.bg/trainings/4182/ms-sql-september-2023> Databases Basics - MS SQL Server </a>                                | <a href="https://softuni.bg/certificates/details/185684/f8dd6311"> Click here</a> | 
 | <a href=https://softuni.bg/trainings/4234/entity-framework-core-october-2023> Entity Framework Core </a>                              | <a href="https://softuni.bg/certificates/details/194190/5704e127"> Click here</a>  | 
 | <a href=https://softuni.bg/trainings/4367/asp-net-fundamentals-january-2024> ASP.NET Fundamentals </a>                                | <a href="https://softuni.bg/certificates/details/206874/0f7122e3"> Click here</a>  | 
-| <a href=https://softuni.bg/trainings/4369/asp-net-advanced-february-2024> ASP.NET Advanced </a>                                       |  Soon! |
+
 
 
 </td>
