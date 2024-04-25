@@ -3,7 +3,7 @@
  <h1 align="center">I'm Nikolay Sinorov</h1>
  </div> 
  
-<h3 align="center">A future Full-Stack passionate developer from Bulgaria. Studying C# - CSharp (.NET), DB and also Front-End development.</h3>
+
 
 <p align="left"> 
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsinorov" alt="nsinorov" /></a> 
