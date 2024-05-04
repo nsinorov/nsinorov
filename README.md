@@ -85,11 +85,6 @@
  
  </br>
 
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-</div>
-
-![](https://raw.githubusercontent.com/nsinorov/nsinorov/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
  <span><strong>Persistence is the key! Keep showing up!</strong> </span>
 
