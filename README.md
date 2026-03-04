@@ -78,6 +78,15 @@
 | <a href="https://softuni.bg/trainings/4402/it-career-booster-october-2023"> IT Career Booster </a> | <a href="https://softuni.bg/certificates/details/201478/79b25045"> Click here </a> |
 
 </td>
+
+---
+
+## ⚙️ DevOps
+| Course | Certificate |
+|------|------|
+| Software Engineering and DevOps | <a href="https://softuni.bg/certificates/details/257316/202587a7"> Click here </a> |
+| Kubernetes Basics | Click here |
+
  
  </br>
 
