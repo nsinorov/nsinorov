@@ -85,7 +85,7 @@
 | Course | Certificate |
 |------|------|
 | <a href=https://softuni.bg/trainings/5212/software-engineering-and-devops-january-2026> Software Engineering and DevOps | <a href="https://softuni.bg/certificates/details/257316/202587a7"> Click here </a> |
-| Kubernetes Basics | Click here |
+| Containers and Cloud | Click here |
 
  
  </br>
