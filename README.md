@@ -31,7 +31,7 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nsinorov&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsinorov&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=nsinorov&theme=tokyonight" />
 </p>
 
