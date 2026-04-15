@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nsinorov&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=nsinorov&theme=tokyonight" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nsinorov&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=nsinorov&theme=tokyonight" />
 </p>
 
 </br>
