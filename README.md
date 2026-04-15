@@ -33,8 +33,8 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  
 <p>
-<img height="160em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nsinorov&show_icons=true&locale=en&layout=compact" alt="nsinorov"/>
-<img height="163em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsinorov&" alt="nsinorov" />
+<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nsinorov&show_icons=true&locale=en&layout=compact" alt="nsinorov"/>
+<img height="163em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsinorov&" alt="nsinorov" />
 </p>
 
 </br>
