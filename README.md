@@ -95,7 +95,7 @@
 | Course | Certificate |
 |------|------|
 | <a href=https://softuni.bg/trainings/5212/software-engineering-and-devops-january-2026> Software Engineering and DevOps | <a href="https://softuni.bg/certificates/details/257316/202587a7"> Click here </a> |
-| Containers and Cloud | In Progress |
+| <a href=https://softuni.bg/trainings/5150/containers-and-cloud-february-2026> Containers and Cloud | <a href="https://softuni.bg/certificates/details/260746/f0e8186a"> Click here </a> |
 
  
  </br>
