@@ -100,6 +100,11 @@
  
  </br>
 
+<h2>🎓 Diploma</h2>
+
+| Field | Diploma |
+|---|---|
+| Software Engineering | <a href="https://softuni.bg/certificates/details/261527/5c4920d8"> Click here </a> |
 
  <span><strong>Persistence is the key! Keep showing up!</strong> </span>
 
