@@ -104,7 +104,7 @@
 
 | Field | Diploma |
 |---|---|
-| Software Engineering | <a href="https://softuni.bg/certificates/details/261527/5c4920d8"> Click here </a> |
+| Back-End Software Engineer with C# | <a href="https://softuni.bg/certificates/details/261527/5c4920d8"> Click here </a> |
 
  <span><strong>Persistence is the key! Keep showing up!</strong> </span>
 
